@@ -50,10 +50,6 @@ function Add({onAddResponse}) {
                     <Modal.Title>Employee Details</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <label style={{ display:'flex', justifyContent: 'center' }}>
-                        <input type="file" style={{ display: 'none' }} />
-                        <img width={'30%'} height={'200px'} src="https://cdn-icons-png.flaticon.com/512/6325/6325109.png" alt="profile" />
-                    </label>
                     <div className="row">
                         <div className="col-6">
                             <div className='mb-2'>
